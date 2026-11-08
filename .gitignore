@@ -1,0 +1,13 @@
+# Arquivos que NAO devem ir para o repositorio remoto
+
+# Variaveis de ambiente / senhas
+.env
+
+# Configuracao local do desenvolvedor
+config.local.json
+
+# Arquivo de log
+debug.log
+
+# Arquivo de anotacoes pessoais
+anotacoes.txt
